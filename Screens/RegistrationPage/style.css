@@ -1,0 +1,86 @@
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+}
+
+.Master{
+  height: 100vh;
+    background-image: url(../../src/Images/background-g3069d6c59_1920.jpg); 
+    background-size: auto;
+
+  }
+.container {
+  width: 35%;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color:#599cad00;
+}
+
+.container label{
+    align-self: flex-start;
+ 
+}
+ 
+input{
+    
+  width: 100%;
+  padding: 15px;
+  margin: 7.5px 0 22px 0;
+  border: none;
+  border-radius: 5px ;
+  background: #f9fcfc;
+}
+
+input:focus {
+outline: 4px  double #599cad ;
+background: #ffffff;
+  
+}
+
+
+
+input:focus:invalid {
+outline: 4px  double #f60000 ;
+  
+}
+
+h1{
+    margin:5px 0 20px 0 ;
+}
+hr {
+  border: 1px solid #0f6d79;
+  margin:15px 0 15px;
+  width: 100%;
+}
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  font-size: 17px;
+  border-radius:5px ;
+  background-image: linear-gradient(to right, #71B280 , #2BC0E4);
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.8;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+.registerbtn:active{
+  transform: scale(0.98);
+  box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+}
+
+/* Add a blue text color to links */
+a {
+  color: #0f6d79;
+}
+

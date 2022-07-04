@@ -1,0 +1,79 @@
+[
+    {
+        "q":"Which word does NOT belong with the others?",
+        "answers":["noun","preposition","punctuation","adverb"],
+        "rightOne": 0,
+        "bookMark":false,
+        "isRight":false,
+        "Degree":10
+
+    },
+    {
+        "q":"Which word does NOT belong with the others?",
+        "answers":["cornea","retina","pupil ","vision"],
+        "rightOne": 1,
+        "bookMark":false,
+        "isRight":false,
+        "Degree":10
+    },
+    {
+        "q":"Which word does NOT belong with the others?",
+        "answers":["rye","sourdough","pumpernickel","loaf"],
+        "rightOne": 2,
+        "bookMark":false,
+        "isRight":false,
+        "Degree":10
+    },
+    { "q":"Which word does NOT belong with the others?",
+        "answers":["inch","ounce","centimeter","yard"],
+        "rightOne": 0,
+        "bookMark":false,
+        "isRight":false,
+        "Degree":10
+    },
+    { "q":"Which word does NOT belong with the others?",
+        "answers":["street","freeway","interstate","expressway"],
+        "rightOne": 0,
+        "bookMark":false,
+        "isRight":false,
+        "Degree":10
+    },
+    { "q":"Which word does NOT belong with the others?",
+        "answers":["dodge","flee","duck","avoid"],
+        "rightOne": 0,
+        "bookMark":false,
+        "isRight":false,
+        "Degree":10
+    }
+    ,
+    { "q":"Which word does NOT belong with the others?",
+        "answers":["heading","body","letter","closing"],
+        "rightOne": 0,
+        "bookMark":false,
+        "isRight":false,
+        "Degree":10
+    },
+    { "q":"Which word does NOT belong with the others?",
+        "answers":["book","index","glossary","chapter"],
+        "rightOne": 0,
+        "bookMark":false,
+        "isRight":false,
+        "Degree":10
+    }   ,
+    { "q":"Which word does NOT belong with the others?",
+        "answers":["unimportant","trivial","insignificant","familiar"],
+        "rightOne": 0,
+        "bookMark":false,
+        "isRight":false,
+        "Degree":10
+    }   
+      ,
+    { "q":"Which word does NOT belong with the others?",
+        "answers":["branch","dirt","leaf","root"],
+        "rightOne": 0,
+        "bookMark":false,
+        "isRight":false,
+        "Degree":10
+    }   
+
+]
